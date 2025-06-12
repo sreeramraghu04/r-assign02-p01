@@ -24,6 +24,6 @@ A simple and responsive ToDo application built with **React** and styled using *
 - Small Screen
   ![alt text](sm-todo-assign02.png)
 
-## Links
+## Demo Link
 
 - [Live Demo](https://todowebappassign02p01.netlify.app/)
